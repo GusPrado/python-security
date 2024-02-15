@@ -22,3 +22,4 @@ def clean_wordlist(wordlist):
         symbols = '!@#$%¨&*()_+-=´[]~;/`{^}:?.,\|'
     return
 
+### FINISIH LATER ###
